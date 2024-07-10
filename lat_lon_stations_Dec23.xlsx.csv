@@ -1,0 +1,850 @@
+﻿trip_time_range,end_station_name,end_lat,end_lng,Total trips
+0 to 5 min,11 St & Washington St,40.74998491,-74.02715027,433
+0 to 5 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,246
+0 to 5 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,271
+0 to 5 min,2 St & Park Ave,40.73915273,-74.03308198,243
+0 to 5 min,4 St & Grand St,40.74225798,-74.03511107,444
+0 to 5 min,4 St & River St,40.7408139,-74.0274062,275
+0 to 5 min,5 Ave & E 30 St,40.7459849,-73.98629487,1
+0 to 5 min,5 Corners Library,40.73496102,-74.05950308,33
+0 to 5 min,6 St & Grand St,40.74439783,-74.03450087,314
+0 to 5 min,7 St & Monroe St,40.74641265,-74.03797701,323
+0 to 5 min,8 St & Washington St,40.74598388,-74.02819902,682
+0 to 5 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,367
+0 to 5 min,Adams St & 12 St,40.75188939,-74.03329163,147
+0 to 5 min,Adams St & 2 St,40.73981372,-74.03690413,370
+0 to 5 min,Astor Place,40.7192822,-74.07126188,33
+0 to 5 min,Baldwin at Montgomery,40.7236589,-74.0641943,96
+0 to 5 min,Bergen Ave,40.72210379,-74.071455,163
+0 to 5 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,814
+0 to 5 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,8
+0 to 5 min,Bloomfield St & 15 St,40.75453,-74.02658,145
+0 to 5 min,Broadway & W 61 St,40.7700301,-73.98196846,1
+0 to 5 min,Brunswick & 6th,40.72601173,-74.05038893,221
+0 to 5 min,Brunswick St,40.7241765,-74.0506564,212
+0 to 5 min,Christ Hospital,40.73478582,-74.05044364,73
+0 to 5 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,450
+0 to 5 min,City Hall,40.7177325,-74.043845,334
+0 to 5 min,City Hall - Washington St & 1 St,40.73736,-74.03097,453
+0 to 5 min,Clinton St & 7 St,40.74542,-74.03332,582
+0 to 5 min,Clinton St & Newark St,40.73743,-74.03571,379
+0 to 5 min,Columbus Drive,40.7183552,-74.03891444,328
+0 to 5 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,549
+0 to 5 min,Communipaw & Berry Lane,40.71435837,-74.06661093,22
+0 to 5 min,Dey St,40.737711,-74.066921,107
+0 to 5 min,Dixon Mills,40.72163014,-74.04996783,214
+0 to 5 min,E 27 St & Park Ave S,40.7427518,-73.98471572,1
+0 to 5 min,Essex Light Rail,40.7127742,-74.0364857,114
+0 to 5 min,Exchange Pl,40.71636596,-74.03434396,554
+0 to 5 min,Fairmount Ave,40.72572614,-74.07195926,168
+0 to 5 min,Glenwood Ave,40.72755147,-74.07106072,66
+0 to 5 min,Grand St,40.71517768,-74.03768331,312
+0 to 5 min,Grand St & 14 St,40.75409,-74.0316,307
+0 to 5 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,4
+0 to 5 min,Greenwich Ave & Charles St,40.735238,-74.000271,1
+0 to 5 min,Grove St PATH,40.71941,-74.04309,1637
+0 to 5 min,Hamilton Park,40.72759597,-74.04424731,549
+0 to 5 min,Harborside,40.7192517,-74.034234,323
+0 to 5 min,Heights Elevator,40.74871595,-74.0404433,26
+0 to 5 min,Hilltop,40.7311689,-74.0575736,74
+0 to 5 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,172
+0 to 5 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,620
+0 to 5 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,1506
+0 to 5 min,Jackson Square,40.71113,-74.0789,17
+0 to 5 min,JC Medical Center,40.71539114,-74.04969156,260
+0 to 5 min,Jersey & 3rd,40.72333159,-74.04595256,278
+0 to 5 min,Jersey & 6th St,40.72528911,-74.04557168,227
+0 to 5 min,Journal Square,40.73367,-74.0625,223
+0 to 5 min,Lafayette Park,40.71346383,-74.06285852,38
+0 to 5 min,Leonard Gordon Park,40.74590997,-74.05727148,59
+0 to 5 min,Liberty Light Rail,40.7112423,-74.0557013,103
+0 to 5 min,Lincoln Park,40.7246051,-74.07840595,20
+0 to 5 min,Madison St & 1 St,40.73879,-74.0393,515
+0 to 5 min,Madison St & 10 St,40.74994325,-74.03586477,355
+0 to 5 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,187
+0 to 5 min,Manila & 1st,40.72165072,-74.04288411,527
+0 to 5 min,Marin Light Rail,40.71458404,-74.04281706,520
+0 to 5 min,Marshall St & 2 St,40.740802,-74.042521,344
+0 to 5 min,McGinley Square,40.72533993,-74.06762213,273
+0 to 5 min,Monmouth and 6th,40.72568548,-74.04879034,210
+0 to 5 min,Montgomery St,40.71942,-74.05099,140
+0 to 5 min,Morris Canal,40.71241882,-74.03852552,325
+0 to 5 min,Newark Ave,40.72152515,-74.04630454,315
+0 to 5 min,Newport PATH,40.7272235,-74.0337589,368
+0 to 5 min,Newport Pkwy,40.7287448,-74.0321082,203
+0 to 5 min,Oakland Ave,40.7376037,-74.0524783,85
+0 to 5 min,Paulus Hook,40.7141454,-74.0335519,166
+0 to 5 min,Pershing Field,40.74267714,-74.05178863,51
+0 to 5 min,River St & 1 St,40.73721535,-74.02886541,554
+0 to 5 min,Riverview Park,40.7443187,-74.0439909,64
+0 to 5 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,328
+0 to 5 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,375
+0 to 5 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,396
+0 to 5 min,Suffolk St & Stanton St,40.72066442,-73.98517977,1
+0 to 5 min,Union St,40.7182113,-74.0836394,11
+0 to 5 min,Van Vorst Park,40.71848892,-74.04772663,343
+0 to 5 min,W 13 St & 7 Ave,40.73781509,-73.99994661,1
+0 to 5 min,W 21 St & 6 Ave,40.74173969,-73.99415556,1
+0 to 5 min,Warren St,40.7211236,-74.03805095,326
+0 to 5 min,Washington St,40.7242941,-74.0354826,229
+0 to 5 min,Washington St & Gansevoort St,40.739323,-74.008119,1
+0 to 5 min,Willow Ave & 12 St,40.75186748,-74.03037697,241
+0 to 5 min,York St & Marin Blvd,40.716615,-74.04241204,82
+11 to 15 min,11 St & Washington St,40.74998491,-74.02715027,131
+11 to 15 min,12 Ave & W 40 St,40.76087502,-74.00277668,3
+11 to 15 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,114
+11 to 15 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,116
+11 to 15 min,2 St & Park Ave,40.73915273,-74.03308198,74
+11 to 15 min,4 St & Grand St,40.74225798,-74.03511107,14
+11 to 15 min,4 St & River St,40.7408139,-74.0274062,81
+11 to 15 min,5 Corners Library,40.73496102,-74.05950308,27
+11 to 15 min,6 St & Grand St,40.74439783,-74.03450087,25
+11 to 15 min,7 St & 5 Ave,40.6704922,-73.98541675,1
+11 to 15 min,7 St & Monroe St,40.74641265,-74.03797701,62
+11 to 15 min,8 St & Washington St,40.74598388,-74.02819902,58
+11 to 15 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,68
+11 to 15 min,Adams St & 12 St,40.75188939,-74.03329163,42
+11 to 15 min,Adams St & 2 St,40.73981372,-74.03690413,46
+11 to 15 min,Astor Place,40.7192822,-74.07126188,30
+11 to 15 min,Baldwin at Montgomery,40.7236589,-74.0641943,59
+11 to 15 min,Bergen Ave,40.72210379,-74.071455,44
+11 to 15 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,85
+11 to 15 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,13
+11 to 15 min,Bloomfield St & 15 St,40.75453,-74.02658,87
+11 to 15 min,Brunswick & 6th,40.72601173,-74.05038893,59
+11 to 15 min,Brunswick St,40.7241765,-74.0506564,52
+11 to 15 min,Christ Hospital,40.73478582,-74.05044364,49
+11 to 15 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,57
+11 to 15 min,City Hall,40.7177325,-74.043845,91
+11 to 15 min,City Hall - Washington St & 1 St,40.73736,-74.03097,112
+11 to 15 min,Clinton Ave & Myrtle Ave,40.693261,-73.968896,1
+11 to 15 min,Clinton St & 7 St,40.74542,-74.03332,69
+11 to 15 min,Clinton St & Newark St,40.73743,-74.03571,56
+11 to 15 min,Columbus Drive,40.7183552,-74.03891444,104
+11 to 15 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,67
+11 to 15 min,Communipaw & Berry Lane,40.71435837,-74.06661093,66
+11 to 15 min,Dey St,40.737711,-74.066921,21
+11 to 15 min,Dixon Mills,40.72163014,-74.04996783,30
+11 to 15 min,E 18 St & Church Ave,40.64958,-73.96316,1
+11 to 15 min,Essex Light Rail,40.7127742,-74.0364857,26
+11 to 15 min,Exchange Pl,40.71636596,-74.03434396,136
+11 to 15 min,Fairmount Ave,40.72572614,-74.07195926,45
+11 to 15 min,Glenwood Ave,40.72755147,-74.07106072,36
+11 to 15 min,Grand St,40.71517768,-74.03768331,76
+11 to 15 min,Grand St & 14 St,40.75409,-74.0316,93
+11 to 15 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,14
+11 to 15 min,Greenwich St & Hubert St,40.721319,-74.010065,2
+11 to 15 min,Grove St PATH,40.71941,-74.04309,165
+11 to 15 min,Hamilton Park,40.72759597,-74.04424731,156
+11 to 15 min,Harborside,40.7192517,-74.034234,118
+11 to 15 min,Heights Elevator,40.74871595,-74.0404433,62
+11 to 15 min,Hilltop,40.7311689,-74.0575736,46
+11 to 15 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,109
+11 to 15 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,158
+11 to 15 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,230
+11 to 15 min,Jackson Square,40.71113,-74.0789,25
+11 to 15 min,JC Medical Center,40.71539114,-74.04969156,40
+11 to 15 min,Jersey & 3rd,40.72333159,-74.04595256,44
+11 to 15 min,Jersey & 6th St,40.72528911,-74.04557168,24
+11 to 15 min,Journal Square,40.73367,-74.0625,31
+11 to 15 min,Lafayette Park,40.71346383,-74.06285852,103
+11 to 15 min,Leonard Gordon Park,40.74590997,-74.05727148,47
+11 to 15 min,Liberty Light Rail,40.7112423,-74.0557013,121
+11 to 15 min,Lincoln Park,40.7246051,-74.07840595,36
+11 to 15 min,Madison St & 1 St,40.73879,-74.0393,77
+11 to 15 min,Madison St & 10 St,40.74994325,-74.03586477,61
+11 to 15 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,30
+11 to 15 min,Manila & 1st,40.72165072,-74.04288411,65
+11 to 15 min,Marin Light Rail,40.71458404,-74.04281706,83
+11 to 15 min,Marshall St & 2 St,40.740802,-74.042521,41
+11 to 15 min,McGinley Square,40.72533993,-74.06762213,47
+11 to 15 min,Monmouth and 6th,40.72568548,-74.04879034,33
+11 to 15 min,Montgomery St,40.71942,-74.05099,43
+11 to 15 min,Morris Canal,40.71241882,-74.03852552,53
+11 to 15 min,Newark Ave,40.72152515,-74.04630454,136
+11 to 15 min,Newport PATH,40.7272235,-74.0337589,188
+11 to 15 min,Newport Pkwy,40.7287448,-74.0321082,169
+11 to 15 min,Oakland Ave,40.7376037,-74.0524783,33
+11 to 15 min,Paulus Hook,40.7141454,-74.0335519,49
+11 to 15 min,Pershing Field,40.74267714,-74.05178863,70
+11 to 15 min,Prospect Pl & Nostrand Ave,40.67428,-73.9503,1
+11 to 15 min,River St & 1 St,40.73721535,-74.02886541,97
+11 to 15 min,River Ter & Warren St,40.71759895,-74.01587963,1
+11 to 15 min,Riverview Park,40.7443187,-74.0439909,77
+11 to 15 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,125
+11 to 15 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,65
+11 to 15 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,63
+11 to 15 min,Union St,40.7182113,-74.0836394,32
+11 to 15 min,Van Vorst Park,40.71848892,-74.04772663,32
+11 to 15 min,Vesey Pl & River Terrace,40.7153379,-74.01658354,2
+11 to 15 min,W 21 St & 6 Ave,40.74173969,-73.99415556,1
+11 to 15 min,W 41 St & 8 Ave,40.75640548,-73.9900262,1
+11 to 15 min,Warren St,40.7211236,-74.03805095,108
+11 to 15 min,Washington St,40.7242941,-74.0354826,122
+11 to 15 min,Watts St & Greenwich St,40.72405549,-74.00965965,1
+11 to 15 min,Willow Ave & 12 St,40.75186748,-74.03037697,74
+11 to 15 min,York St & Marin Blvd,40.716615,-74.04241204,24
+16 to 20 min,11 St & Washington St,40.74998491,-74.02715027,42
+16 to 20 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,24
+16 to 20 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,33
+16 to 20 min,2 St & Park Ave,40.73915273,-74.03308198,27
+16 to 20 min,3 Ave & Carroll St,40.677027,-73.9865,1
+16 to 20 min,4 St & Grand St,40.74225798,-74.03511107,7
+16 to 20 min,4 St & River St,40.7408139,-74.0274062,24
+16 to 20 min,5 Corners Library,40.73496102,-74.05950308,20
+16 to 20 min,6 St & Grand St,40.74439783,-74.03450087,16
+16 to 20 min,7 St & Monroe St,40.74641265,-74.03797701,19
+16 to 20 min,8 St & Washington St,40.74598388,-74.02819902,38
+16 to 20 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,24
+16 to 20 min,Adams St & 12 St,40.75188939,-74.03329163,14
+16 to 20 min,Adams St & 2 St,40.73981372,-74.03690413,18
+16 to 20 min,Astor Place,40.7192822,-74.07126188,16
+16 to 20 min,Baldwin at Montgomery,40.7236589,-74.0641943,24
+16 to 20 min,Bergen Ave,40.72210379,-74.071455,22
+16 to 20 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,30
+16 to 20 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,8
+16 to 20 min,Bloomfield St & 15 St,40.75453,-74.02658,34
+16 to 20 min,Broadway & Battery Pl,40.70463334,-74.01361706,1
+16 to 20 min,Broadway & W 48 St,40.7601774,-73.98486793,2
+16 to 20 min,Brunswick & 6th,40.72601173,-74.05038893,12
+16 to 20 min,Brunswick St,40.7241765,-74.0506564,17
+16 to 20 min,Christ Hospital,40.73478582,-74.05044364,18
+16 to 20 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,23
+16 to 20 min,City Hall,40.7177325,-74.043845,39
+16 to 20 min,City Hall - Washington St & 1 St,40.73736,-74.03097,40
+16 to 20 min,Clinton St & 7 St,40.74542,-74.03332,16
+16 to 20 min,Clinton St & Newark St,40.73743,-74.03571,20
+16 to 20 min,Columbus Ave & W 103 St,40.7969347,-73.96434123,1
+16 to 20 min,Columbus Drive,40.7183552,-74.03891444,35
+16 to 20 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,22
+16 to 20 min,Communipaw & Berry Lane,40.71435837,-74.06661093,24
+16 to 20 min,Dey St,40.737711,-74.066921,10
+16 to 20 min,Dixon Mills,40.72163014,-74.04996783,12
+16 to 20 min,Duane St & Hudson St,40.71703,-74.00925,2
+16 to 20 min,E 40 St & Park Ave,40.750756,-73.978326,2
+16 to 20 min,E 41 St & Madison Ave (SE corner),40.752049,-73.979635,2
+16 to 20 min,E 53 St & Madison Ave,40.7597108,-73.97402311,1
+16 to 20 min,Essex Light Rail,40.7127742,-74.0364857,4
+16 to 20 min,Exchange Pl,40.71636596,-74.03434396,67
+16 to 20 min,Fairmount Ave,40.72572614,-74.07195926,19
+16 to 20 min,Glenwood Ave,40.72755147,-74.07106072,13
+16 to 20 min,Grand St,40.71517768,-74.03768331,18
+16 to 20 min,Grand St & 14 St,40.75409,-74.0316,58
+16 to 20 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,1
+16 to 20 min,Grove St PATH,40.71941,-74.04309,57
+16 to 20 min,Hamilton Park,40.72759597,-74.04424731,44
+16 to 20 min,Harborside,40.7192517,-74.034234,36
+16 to 20 min,Heights Elevator,40.74871595,-74.0404433,16
+16 to 20 min,Hilltop,40.7311689,-74.0575736,13
+16 to 20 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,24
+16 to 20 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,29
+16 to 20 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,76
+16 to 20 min,Jackson Square,40.71113,-74.0789,11
+16 to 20 min,JC Medical Center,40.71539114,-74.04969156,13
+16 to 20 min,Jersey & 3rd,40.72333159,-74.04595256,27
+16 to 20 min,Jersey & 6th St,40.72528911,-74.04557168,8
+16 to 20 min,Journal Square,40.73367,-74.0625,20
+16 to 20 min,Lafayette Park,40.71346383,-74.06285852,13
+16 to 20 min,Lafayette St & Jersey St,40.72456089,-73.99565293,3
+16 to 20 min,Leonard Gordon Park,40.74590997,-74.05727148,17
+16 to 20 min,Liberty Light Rail,40.7112423,-74.0557013,32
+16 to 20 min,Lincoln Park,40.7246051,-74.07840595,24
+16 to 20 min,Lispenard St & Broadway,40.71939226,-74.00247214,1
+16 to 20 min,Madison St & 1 St,40.73879,-74.0393,21
+16 to 20 min,Madison St & 10 St,40.74994325,-74.03586477,17
+16 to 20 min,Maiden Ln & Pearl St,40.70706456,-74.00731853,1
+16 to 20 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,11
+16 to 20 min,Manila & 1st,40.72165072,-74.04288411,21
+16 to 20 min,Marin Light Rail,40.71458404,-74.04281706,23
+16 to 20 min,Marshall St & 2 St,40.740802,-74.042521,14
+16 to 20 min,McGinley Square,40.72533993,-74.06762213,28
+16 to 20 min,Mercer St & Spring St,40.72362738,-73.99949601,1
+16 to 20 min,Monmouth and 6th,40.72568548,-74.04879034,8
+16 to 20 min,Montgomery St,40.71942,-74.05099,32
+16 to 20 min,Morris Canal,40.71241882,-74.03852552,18
+16 to 20 min,Newark Ave,40.72152515,-74.04630454,35
+16 to 20 min,Newport PATH,40.7272235,-74.0337589,86
+16 to 20 min,Newport Pkwy,40.7287448,-74.0321082,85
+16 to 20 min,North Moore St & Greenwich St,40.72019521,-74.01030064,1
+16 to 20 min,Oakland Ave,40.7376037,-74.0524783,16
+16 to 20 min,Paulus Hook,40.7141454,-74.0335519,22
+16 to 20 min,Perry St & Greenwich Ave,40.735918,-74.000939,1
+16 to 20 min,Pershing Field,40.74267714,-74.05178863,45
+16 to 20 min,River St & 1 St,40.73721535,-74.02886541,40
+16 to 20 min,River Ter & Warren St,40.71759895,-74.01587963,1
+16 to 20 min,Riverview Park,40.7443187,-74.0439909,26
+16 to 20 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,41
+16 to 20 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,16
+16 to 20 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,35
+16 to 20 min,Union St,40.7182113,-74.0836394,20
+16 to 20 min,Van Vorst Park,40.71848892,-74.04772663,24
+16 to 20 min,Vesey Pl & River Terrace,40.7153379,-74.01658354,3
+16 to 20 min,Vesey St & Church St,40.71221958,-74.0104723,1
+16 to 20 min,W 16 St & The High Line,40.74334935,-74.00681753,1
+16 to 20 min,W 20 St & 10 Ave,40.745686,-74.005141,1
+16 to 20 min,W 33 St & 10 Ave,40.75377337,-73.999376,1
+16 to 20 min,Warren St,40.7211236,-74.03805095,25
+16 to 20 min,Washington St,40.7242941,-74.0354826,42
+16 to 20 min,Willow Ave & 12 St,40.75186748,-74.03037697,45
+16 to 20 min,York St & Marin Blvd,40.716615,-74.04241204,19
+21 to 25 min,10 Ave & W 14 St,40.7419816,-74.0083158,1
+21 to 25 min,11 St & Washington St,40.74998491,-74.02715027,10
+21 to 25 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,15
+21 to 25 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,19
+21 to 25 min,2 St & Park Ave,40.73915273,-74.03308198,19
+21 to 25 min,4 St & Grand St,40.74225798,-74.03511107,3
+21 to 25 min,4 St & River St,40.7408139,-74.0274062,26
+21 to 25 min,5 Corners Library,40.73496102,-74.05950308,3
+21 to 25 min,6 Ave & Broome St,40.72431,-74.00473,1
+21 to 25 min,6 Ave & Walker St,40.71979209,-74.00522389,2
+21 to 25 min,6 St & Grand St,40.74439783,-74.03450087,4
+21 to 25 min,7 St & Monroe St,40.74641265,-74.03797701,5
+21 to 25 min,8 St & Washington St,40.74598388,-74.02819902,11
+21 to 25 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,5
+21 to 25 min,Adams St & 12 St,40.75188939,-74.03329163,6
+21 to 25 min,Adams St & 2 St,40.73981372,-74.03690413,3
+21 to 25 min,Astor Place,40.7192822,-74.07126188,14
+21 to 25 min,Baldwin at Montgomery,40.7236589,-74.0641943,12
+21 to 25 min,Bergen Ave,40.72210379,-74.071455,4
+21 to 25 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,11
+21 to 25 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,6
+21 to 25 min,Bloomfield St & 15 St,40.75453,-74.02658,14
+21 to 25 min,Brunswick & 6th,40.72601173,-74.05038893,8
+21 to 25 min,Brunswick St,40.7241765,-74.0506564,2
+21 to 25 min,Canal St & Rutgers St,40.71427487,-73.98990025,1
+21 to 25 min,Christ Hospital,40.73478582,-74.05044364,5
+21 to 25 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,5
+21 to 25 min,City Hall,40.7177325,-74.043845,9
+21 to 25 min,City Hall - Washington St & 1 St,40.73736,-74.03097,17
+21 to 25 min,Cleveland Pl & Spring St,40.72210379,-73.99724901,1
+21 to 25 min,Clinton St & 7 St,40.74542,-74.03332,10
+21 to 25 min,Clinton St & Newark St,40.73743,-74.03571,11
+21 to 25 min,Columbus Drive,40.7183552,-74.03891444,27
+21 to 25 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,16
+21 to 25 min,Communipaw & Berry Lane,40.71435837,-74.06661093,2
+21 to 25 min,Dey St,40.737711,-74.066921,5
+21 to 25 min,Dixon Mills,40.72163014,-74.04996783,2
+21 to 25 min,E 16 St & Irving Pl,40.73536706,-73.98797393,1
+21 to 25 min,E 40 St & Park Ave,40.750756,-73.978326,2
+21 to 25 min,E 41 St & Madison Ave (SE corner),40.752049,-73.979635,1
+21 to 25 min,Essex Light Rail,40.7127742,-74.0364857,7
+21 to 25 min,Exchange Pl,40.71636596,-74.03434396,25
+21 to 25 min,Fairmount Ave,40.72572614,-74.07195926,8
+21 to 25 min,Fulton St & Broadway,40.711066,-74.009447,1
+21 to 25 min,Glenwood Ave,40.72755147,-74.07106072,4
+21 to 25 min,Grand St,40.71517768,-74.03768331,11
+21 to 25 min,Grand St & 14 St,40.75409,-74.0316,14
+21 to 25 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,1
+21 to 25 min,Greenwich St & Hubert St,40.721319,-74.010065,1
+21 to 25 min,Grove St PATH,40.71941,-74.04309,17
+21 to 25 min,Hamilton Park,40.72759597,-74.04424731,12
+21 to 25 min,Harborside,40.7192517,-74.034234,15
+21 to 25 min,Heights Elevator,40.74871595,-74.0404433,14
+21 to 25 min,Hilltop,40.7311689,-74.0575736,6
+21 to 25 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,8
+21 to 25 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,10
+21 to 25 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,16
+21 to 25 min,Jackson Square,40.71113,-74.0789,1
+21 to 25 min,JC Medical Center,40.71539114,-74.04969156,2
+21 to 25 min,Jersey & 3rd,40.72333159,-74.04595256,8
+21 to 25 min,Jersey & 6th St,40.72528911,-74.04557168,8
+21 to 25 min,Journal Square,40.73367,-74.0625,1
+21 to 25 min,Lafayette Park,40.71346383,-74.06285852,6
+21 to 25 min,Leonard Gordon Park,40.74590997,-74.05727148,13
+21 to 25 min,Liberty Light Rail,40.7112423,-74.0557013,15
+21 to 25 min,Lincoln Park,40.7246051,-74.07840595,8
+21 to 25 min,Madison St & 1 St,40.73879,-74.0393,13
+21 to 25 min,Madison St & 10 St,40.74994325,-74.03586477,14
+21 to 25 min,Maiden Ln & Pearl St,40.70706456,-74.00731853,2
+21 to 25 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,3
+21 to 25 min,Manila & 1st,40.72165072,-74.04288411,12
+21 to 25 min,Marin Light Rail,40.71458404,-74.04281706,13
+21 to 25 min,Marshall St & 2 St,40.740802,-74.042521,6
+21 to 25 min,McGinley Square,40.72533993,-74.06762213,5
+21 to 25 min,Mercer St & Spring St,40.72362738,-73.99949601,1
+21 to 25 min,Monmouth and 6th,40.72568548,-74.04879034,4
+21 to 25 min,Montgomery St,40.71942,-74.05099,8
+21 to 25 min,Morris Canal,40.71241882,-74.03852552,13
+21 to 25 min,Newark Ave,40.72152515,-74.04630454,11
+21 to 25 min,Newport PATH,40.7272235,-74.0337589,34
+21 to 25 min,Newport Pkwy,40.7287448,-74.0321082,35
+21 to 25 min,Paulus Hook,40.7141454,-74.0335519,7
+21 to 25 min,Pershing Field,40.74267714,-74.05178863,22
+21 to 25 min,Reade St & Broadway,40.71450451,-74.00562789,1
+21 to 25 min,River St & 1 St,40.73721535,-74.02886541,27
+21 to 25 min,Riverview Park,40.7443187,-74.0439909,8
+21 to 25 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,25
+21 to 25 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,3
+21 to 25 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,18
+21 to 25 min,Union St,40.7182113,-74.0836394,9
+21 to 25 min,Van Vorst Park,40.71848892,-74.04772663,6
+21 to 25 min,Vesey Pl & River Terrace,40.7153379,-74.01658354,1
+21 to 25 min,W 16 St & The High Line,40.74334935,-74.00681753,1
+21 to 25 min,W 54 St & 11 Ave,40.768333,-73.992573,1
+21 to 25 min,Walker St & Baxter St,40.717411,-73.999573,1
+21 to 25 min,Warren St,40.7211236,-74.03805095,11
+21 to 25 min,Washington St,40.7242941,-74.0354826,20
+21 to 25 min,West St & Chambers St,40.71754834,-74.01322069,1
+21 to 25 min,William St & Pine St,40.70717936,-74.00887308,1
+21 to 25 min,Willow Ave & 12 St,40.75186748,-74.03037697,21
+21 to 25 min,York St & Marin Blvd,40.716615,-74.04241204,5
+26 to 30 min,10 Ave & W 14 St,40.7419816,-74.0083158,1
+26 to 30 min,11 St & Washington St,40.74998491,-74.02715027,8
+26 to 30 min,12 Ave & W 40 St,40.76087502,-74.00277668,1
+26 to 30 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,10
+26 to 30 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,12
+26 to 30 min,2 St & Park Ave,40.73915273,-74.03308198,4
+26 to 30 min,4 St & Grand St,40.74225798,-74.03511107,1
+26 to 30 min,4 St & River St,40.7408139,-74.0274062,11
+26 to 30 min,5 Corners Library,40.73496102,-74.05950308,2
+26 to 30 min,6 Ave & Walker St,40.71979209,-74.00522389,1
+26 to 30 min,6 St & Grand St,40.74439783,-74.03450087,1
+26 to 30 min,7 St & Monroe St,40.74641265,-74.03797701,9
+26 to 30 min,8 St & Washington St,40.74598388,-74.02819902,3
+26 to 30 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,5
+26 to 30 min,Adams St & 12 St,40.75188939,-74.03329163,5
+26 to 30 min,Adams St & 2 St,40.73981372,-74.03690413,5
+26 to 30 min,Astor Place,40.7192822,-74.07126188,1
+26 to 30 min,Baldwin at Montgomery,40.7236589,-74.0641943,5
+26 to 30 min,Bergen Ave,40.72210379,-74.071455,6
+26 to 30 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,5
+26 to 30 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,3
+26 to 30 min,Bleecker St & Crosby St,40.72615605,-73.9951019,1
+26 to 30 min,Bloomfield St & 15 St,40.75453,-74.02658,7
+26 to 30 min,Broadway & W 51 St,40.76228826,-73.98336183,1
+26 to 30 min,Broadway & W 56 St,40.7652654,-73.98192338,1
+26 to 30 min,Brunswick & 6th,40.72601173,-74.05038893,2
+26 to 30 min,Brunswick St,40.7241765,-74.0506564,1
+26 to 30 min,Christ Hospital,40.73478582,-74.05044364,4
+26 to 30 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,3
+26 to 30 min,City Hall,40.7177325,-74.043845,6
+26 to 30 min,City Hall - Washington St & 1 St,40.73736,-74.03097,14
+26 to 30 min,Clinton St & 7 St,40.74542,-74.03332,4
+26 to 30 min,Clinton St & Newark St,40.73743,-74.03571,6
+26 to 30 min,Columbus Drive,40.7183552,-74.03891444,10
+26 to 30 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,7
+26 to 30 min,Communipaw & Berry Lane,40.71435837,-74.06661093,3
+26 to 30 min,Dey St,40.737711,-74.066921,2
+26 to 30 min,Dixon Mills,40.72163014,-74.04996783,3
+26 to 30 min,Duane St & Hudson St,40.71703,-74.00925,1
+26 to 30 min,E 40 St & Park Ave,40.750756,-73.978326,1
+26 to 30 min,Essex Light Rail,40.7127742,-74.0364857,3
+26 to 30 min,Exchange Pl,40.71636596,-74.03434396,7
+26 to 30 min,Fairmount Ave,40.72572614,-74.07195926,4
+26 to 30 min,Franklin St & W Broadway,40.71911552,-74.00666661,1
+26 to 30 min,Glenwood Ave,40.72755147,-74.07106072,2
+26 to 30 min,Grand Army Plaza & Plaza St West,40.6729679,-73.97087984,1
+26 to 30 min,Grand St,40.71517768,-74.03768331,6
+26 to 30 min,Grand St & 14 St,40.75409,-74.0316,6
+26 to 30 min,Greenwich St & Hubert St,40.721319,-74.010065,1
+26 to 30 min,Grove St PATH,40.71941,-74.04309,11
+26 to 30 min,Hamilton Park,40.72759597,-74.04424731,5
+26 to 30 min,Harborside,40.7192517,-74.034234,11
+26 to 30 min,Hilltop,40.7311689,-74.0575736,3
+26 to 30 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,6
+26 to 30 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,1
+26 to 30 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,5
+26 to 30 min,Jackson Square,40.71113,-74.0789,3
+26 to 30 min,JC Medical Center,40.71539114,-74.04969156,13
+26 to 30 min,Jersey & 3rd,40.72333159,-74.04595256,2
+26 to 30 min,Journal Square,40.73367,-74.0625,3
+26 to 30 min,Lafayette Park,40.71346383,-74.06285852,11
+26 to 30 min,Leonard Gordon Park,40.74590997,-74.05727148,3
+26 to 30 min,Liberty Light Rail,40.7112423,-74.0557013,21
+26 to 30 min,Lincoln Park,40.7246051,-74.07840595,9
+26 to 30 min,Madison Ave & E 51 St,40.75863,-73.97513,2
+26 to 30 min,Madison St & 1 St,40.73879,-74.0393,4
+26 to 30 min,Madison St & 10 St,40.74994325,-74.03586477,5
+26 to 30 min,Maiden Ln & Pearl St,40.70706456,-74.00731853,2
+26 to 30 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,7
+26 to 30 min,Manila & 1st,40.72165072,-74.04288411,3
+26 to 30 min,Marin Light Rail,40.71458404,-74.04281706,4
+26 to 30 min,Marshall St & 2 St,40.740802,-74.042521,5
+26 to 30 min,McGinley Square,40.72533993,-74.06762213,1
+26 to 30 min,Monmouth and 6th,40.72568548,-74.04879034,3
+26 to 30 min,Montgomery St,40.71942,-74.05099,2
+26 to 30 min,Morris Canal,40.71241882,-74.03852552,15
+26 to 30 min,Newark Ave,40.72152515,-74.04630454,7
+26 to 30 min,Newport PATH,40.7272235,-74.0337589,16
+26 to 30 min,Newport Pkwy,40.7287448,-74.0321082,43
+26 to 30 min,Oakland Ave,40.7376037,-74.0524783,2
+26 to 30 min,Paulus Hook,40.7141454,-74.0335519,4
+26 to 30 min,Pershing Field,40.74267714,-74.05178863,7
+26 to 30 min,River St & 1 St,40.73721535,-74.02886541,11
+26 to 30 min,Riverview Park,40.7443187,-74.0439909,5
+26 to 30 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,22
+26 to 30 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,7
+26 to 30 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,6
+26 to 30 min,Union St,40.7182113,-74.0836394,2
+26 to 30 min,Van Vorst Park,40.71848892,-74.04772663,4
+26 to 30 min,W 16 St & The High Line,40.74334935,-74.00681753,5
+26 to 30 min,W 47 St & 10 Ave,40.76269882,-73.99301222,1
+26 to 30 min,Warren St,40.7211236,-74.03805095,7
+26 to 30 min,Washington St,40.7242941,-74.0354826,6
+26 to 30 min,West End Ave & W 60 St,40.77237,-73.99005,1
+26 to 30 min,West St & Chambers St,40.71754834,-74.01322069,1
+26 to 30 min,Willow Ave & 12 St,40.75186748,-74.03037697,10
+26 to 30 min,York St & Marin Blvd,40.716615,-74.04241204,3
+31 to 35 min,10 Ave & W 14 St,40.7419816,-74.0083158,1
+31 to 35 min,11 St & Washington St,40.74998491,-74.02715027,4
+31 to 35 min,12 Ave & W 40 St,40.76087502,-74.00277668,3
+31 to 35 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,7
+31 to 35 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,4
+31 to 35 min,2 St & Park Ave,40.73915273,-74.03308198,4
+31 to 35 min,4 St & Grand St,40.74225798,-74.03511107,2
+31 to 35 min,4 St & River St,40.7408139,-74.0274062,12
+31 to 35 min,5 Corners Library,40.73496102,-74.05950308,4
+31 to 35 min,6 St & Grand St,40.74439783,-74.03450087,1
+31 to 35 min,7 St & Monroe St,40.74641265,-74.03797701,3
+31 to 35 min,8 St & Washington St,40.74598388,-74.02819902,5
+31 to 35 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,1
+31 to 35 min,Adams St & 12 St,40.75188939,-74.03329163,5
+31 to 35 min,Adams St & 2 St,40.73981372,-74.03690413,2
+31 to 35 min,Astor Place,40.7192822,-74.07126188,3
+31 to 35 min,Baldwin at Montgomery,40.7236589,-74.0641943,3
+31 to 35 min,Bergen Ave,40.72210379,-74.071455,2
+31 to 35 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,3
+31 to 35 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,3
+31 to 35 min,Bloomfield St & 15 St,40.75453,-74.02658,9
+31 to 35 min,Brunswick & 6th,40.72601173,-74.05038893,2
+31 to 35 min,Brunswick St,40.7241765,-74.0506564,1
+31 to 35 min,Christopher St & Greenwich St,40.73291553,-74.00711384,1
+31 to 35 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,4
+31 to 35 min,City Hall - Washington St & 1 St,40.73736,-74.03097,7
+31 to 35 min,Clinton St & 7 St,40.74542,-74.03332,2
+31 to 35 min,Clinton St & Newark St,40.73743,-74.03571,5
+31 to 35 min,Columbus Drive,40.7183552,-74.03891444,3
+31 to 35 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,3
+31 to 35 min,Communipaw & Berry Lane,40.71435837,-74.06661093,2
+31 to 35 min,Dey St,40.737711,-74.066921,2
+31 to 35 min,E 39 St & Lexington Ave,40.74949855,-73.97729203,1
+31 to 35 min,E 40 St & 5 Ave,40.75206231,-73.9816324,1
+31 to 35 min,E 40 St & Park Ave,40.750756,-73.978326,5
+31 to 35 min,E 5 St & Cooper Sq,40.72769,-73.990993,1
+31 to 35 min,Essex Light Rail,40.7127742,-74.0364857,4
+31 to 35 min,Exchange Pl,40.71636596,-74.03434396,7
+31 to 35 min,Fairmount Ave,40.72572614,-74.07195926,4
+31 to 35 min,Glenwood Ave,40.72755147,-74.07106072,1
+31 to 35 min,Grand St,40.71517768,-74.03768331,10
+31 to 35 min,Grand St & 14 St,40.75409,-74.0316,2
+31 to 35 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,2
+31 to 35 min,Great Jones St,40.72743423,-73.99379025,1
+31 to 35 min,Grove St PATH,40.71941,-74.04309,7
+31 to 35 min,Hamilton Park,40.72759597,-74.04424731,1
+31 to 35 min,Harborside,40.7192517,-74.034234,9
+31 to 35 min,Heights Elevator,40.74871595,-74.0404433,2
+31 to 35 min,Hilltop,40.7311689,-74.0575736,1
+31 to 35 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,3
+31 to 35 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,3
+31 to 35 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,6
+31 to 35 min,Hudson Blvd W & W 36 St,40.75676475,-73.9997144,1
+31 to 35 min,Jackson Square,40.71113,-74.0789,1
+31 to 35 min,JC Medical Center,40.71539114,-74.04969156,14
+31 to 35 min,Jersey & 3rd,40.72333159,-74.04595256,2
+31 to 35 min,Jersey & 6th St,40.72528911,-74.04557168,2
+31 to 35 min,Journal Square,40.73367,-74.0625,5
+31 to 35 min,Lafayette Park,40.71346383,-74.06285852,6
+31 to 35 min,Leonard Gordon Park,40.74590997,-74.05727148,3
+31 to 35 min,Liberty Light Rail,40.7112423,-74.0557013,15
+31 to 35 min,Lincoln Park,40.7246051,-74.07840595,4
+31 to 35 min,Madison St & 1 St,40.73879,-74.0393,3
+31 to 35 min,Madison St & 10 St,40.74994325,-74.03586477,3
+31 to 35 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,4
+31 to 35 min,Manila & 1st,40.72165072,-74.04288411,2
+31 to 35 min,Marin Light Rail,40.71458404,-74.04281706,4
+31 to 35 min,Marshall St & 2 St,40.740802,-74.042521,2
+31 to 35 min,McGinley Square,40.72533993,-74.06762213,2
+31 to 35 min,Monmouth and 6th,40.72568548,-74.04879034,4
+31 to 35 min,Montgomery St,40.71942,-74.05099,4
+31 to 35 min,Morris Canal,40.71241882,-74.03852552,6
+31 to 35 min,Newark Ave,40.72152515,-74.04630454,2
+31 to 35 min,Newport PATH,40.7272235,-74.0337589,6
+31 to 35 min,Newport Pkwy,40.7287448,-74.0321082,19
+31 to 35 min,Paulus Hook,40.7141454,-74.0335519,3
+31 to 35 min,Pershing Field,40.74267714,-74.05178863,1
+31 to 35 min,River St & 1 St,40.73721535,-74.02886541,4
+31 to 35 min,Riverview Park,40.7443187,-74.0439909,5
+31 to 35 min,Schermerhorn St & Court St,40.69103637,-73.99201065,1
+31 to 35 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,9
+31 to 35 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,1
+31 to 35 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,2
+31 to 35 min,Union St,40.7182113,-74.0836394,2
+31 to 35 min,Van Vorst Park,40.71848892,-74.04772663,3
+31 to 35 min,W 16 St & The High Line,40.74334935,-74.00681753,1
+31 to 35 min,Warren St,40.7211236,-74.03805095,4
+31 to 35 min,Washington St,40.7242941,-74.0354826,7
+31 to 35 min,Willow Ave & 12 St,40.75186748,-74.03037697,4
+31 to 35 min,York St & Marin Blvd,40.716615,-74.04241204,1
+36 to 45 min,11 St & Washington St,40.74998491,-74.02715027,4
+36 to 45 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,5
+36 to 45 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,1
+36 to 45 min,2 St & Park Ave,40.73915273,-74.03308198,4
+36 to 45 min,4 St & River St,40.7408139,-74.0274062,18
+36 to 45 min,5 Corners Library,40.73496102,-74.05950308,1
+36 to 45 min,6 St & Grand St,40.74439783,-74.03450087,2
+36 to 45 min,7 St & Monroe St,40.74641265,-74.03797701,5
+36 to 45 min,8 St & Washington St,40.74598388,-74.02819902,3
+36 to 45 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,4
+36 to 45 min,Adams St & 2 St,40.73981372,-74.03690413,3
+36 to 45 min,Astor Place,40.7192822,-74.07126188,1
+36 to 45 min,Baldwin at Montgomery,40.7236589,-74.0641943,1
+36 to 45 min,Barrow St & Hudson St,40.73172428,-74.00674436,1
+36 to 45 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,6
+36 to 45 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,1
+36 to 45 min,Bloomfield St & 15 St,40.75453,-74.02658,11
+36 to 45 min,Brunswick & 6th,40.72601173,-74.05038893,3
+36 to 45 min,Brunswick St,40.7241765,-74.0506564,1
+36 to 45 min,Christ Hospital,40.73478582,-74.05044364,3
+36 to 45 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,5
+36 to 45 min,City Hall,40.7177325,-74.043845,6
+36 to 45 min,City Hall - Washington St & 1 St,40.73736,-74.03097,9
+36 to 45 min,Clinton St & 7 St,40.74542,-74.03332,5
+36 to 45 min,Clinton St & Newark St,40.73743,-74.03571,2
+36 to 45 min,Columbus Drive,40.7183552,-74.03891444,12
+36 to 45 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,2
+36 to 45 min,Communipaw & Berry Lane,40.71435837,-74.06661093,1
+36 to 45 min,Dixon Mills,40.72163014,-74.04996783,2
+36 to 45 min,E 40 St & Park Ave,40.750756,-73.978326,5
+36 to 45 min,E 47 St & 2 Ave,40.75323098,-73.97032517,2
+36 to 45 min,E 53 St & 3 Ave,40.75763228,-73.96930575,1
+36 to 45 min,Essex Light Rail,40.7127742,-74.0364857,4
+36 to 45 min,Exchange Pl,40.71636596,-74.03434396,1
+36 to 45 min,Fairmount Ave,40.72572614,-74.07195926,1
+36 to 45 min,Glenwood Ave,40.72755147,-74.07106072,1
+36 to 45 min,Grand St,40.71517768,-74.03768331,7
+36 to 45 min,Grand St & 14 St,40.75409,-74.0316,7
+36 to 45 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,4
+36 to 45 min,Greenwich St & W Houston St,40.728846,-74.008591,1
+36 to 45 min,Grove St PATH,40.71941,-74.04309,11
+36 to 45 min,Hamilton Park,40.72759597,-74.04424731,4
+36 to 45 min,Harborside,40.7192517,-74.034234,4
+36 to 45 min,Heights Elevator,40.74871595,-74.0404433,1
+36 to 45 min,Hilltop,40.7311689,-74.0575736,3
+36 to 45 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,3
+36 to 45 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,2
+36 to 45 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,4
+36 to 45 min,Jackson Square,40.71113,-74.0789,1
+36 to 45 min,JC Medical Center,40.71539114,-74.04969156,6
+36 to 45 min,Jersey & 3rd,40.72333159,-74.04595256,4
+36 to 45 min,Jersey & 6th St,40.72528911,-74.04557168,4
+36 to 45 min,Journal Square,40.73367,-74.0625,2
+36 to 45 min,Lafayette Park,40.71346383,-74.06285852,4
+36 to 45 min,Leonard Gordon Park,40.74590997,-74.05727148,2
+36 to 45 min,Liberty Light Rail,40.7112423,-74.0557013,9
+36 to 45 min,Lincoln Park,40.7246051,-74.07840595,1
+36 to 45 min,Madison Ave & E 51 St,40.75863,-73.97513,1
+36 to 45 min,Madison St & 1 St,40.73879,-74.0393,3
+36 to 45 min,Madison St & 10 St,40.74994325,-74.03586477,4
+36 to 45 min,Manila & 1st,40.72165072,-74.04288411,2
+36 to 45 min,Marin Light Rail,40.71458404,-74.04281706,8
+36 to 45 min,Marshall St & 2 St,40.740802,-74.042521,2
+36 to 45 min,McGinley Square,40.72533993,-74.06762213,2
+36 to 45 min,Mercer St & Spring St,40.72362738,-73.99949601,1
+36 to 45 min,Montgomery St,40.71942,-74.05099,5
+36 to 45 min,Morris Canal,40.71241882,-74.03852552,2
+36 to 45 min,Newark Ave,40.72152515,-74.04630454,3
+36 to 45 min,Newport PATH,40.7272235,-74.0337589,10
+36 to 45 min,Newport Pkwy,40.7287448,-74.0321082,20
+36 to 45 min,Oakland Ave,40.7376037,-74.0524783,2
+36 to 45 min,Paulus Hook,40.7141454,-74.0335519,2
+36 to 45 min,Pershing Field,40.74267714,-74.05178863,4
+36 to 45 min,River St & 1 St,40.73721535,-74.02886541,6
+36 to 45 min,Riverview Park,40.7443187,-74.0439909,5
+36 to 45 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,19
+36 to 45 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,4
+36 to 45 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,5
+36 to 45 min,Union St,40.7182113,-74.0836394,1
+36 to 45 min,Van Vorst Park,40.71848892,-74.04772663,3
+36 to 45 min,W 40 St & 7 Ave,40.754818,-73.988154,1
+36 to 45 min,Warren St,40.7211236,-74.03805095,3
+36 to 45 min,Washington St,40.7242941,-74.0354826,10
+36 to 45 min,Water St & Fletcher St,40.70641076,-74.00559738,1
+36 to 45 min,Willow Ave & 12 St,40.75186748,-74.03037697,4
+36 to 45 min,York St & Marin Blvd,40.716615,-74.04241204,3
+6 to 10 min,11 St & Washington St,40.74998491,-74.02715027,492
+6 to 10 min,12 Ave & W 40 St,40.76087502,-74.00277668,1
+6 to 10 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,487
+6 to 10 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,471
+6 to 10 min,2 Ave & E 29 St,40.74172351,-73.97809267,1
+6 to 10 min,2 St & Park Ave,40.73915273,-74.03308198,194
+6 to 10 min,4 Ave & E 12 St,40.732647,-73.99011,1
+6 to 10 min,4 St & Grand St,40.74225798,-74.03511107,234
+6 to 10 min,4 St & River St,40.7408139,-74.0274062,273
+6 to 10 min,5 Corners Library,40.73496102,-74.05950308,56
+6 to 10 min,6 St & Grand St,40.74439783,-74.03450087,209
+6 to 10 min,7 St & Monroe St,40.74641265,-74.03797701,331
+6 to 10 min,8 St & Washington St,40.74598388,-74.02819902,378
+6 to 10 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,381
+6 to 10 min,Adams St & 12 St,40.75188939,-74.03329163,123
+6 to 10 min,Adams St & 2 St,40.73981372,-74.03690413,278
+6 to 10 min,Astor Place,40.7192822,-74.07126188,130
+6 to 10 min,Ave A & E 11 St,40.72854745,-73.98175925,1
+6 to 10 min,Baldwin at Montgomery,40.7236589,-74.0641943,237
+6 to 10 min,Bergen Ave,40.72210379,-74.071455,164
+6 to 10 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,452
+6 to 10 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,16
+6 to 10 min,Beverley Rd & E 49 St,40.64621,-73.93067,1
+6 to 10 min,Bloomfield St & 15 St,40.75453,-74.02658,332
+6 to 10 min,Broadway & Berry St,40.7103613,-73.9653039,1
+6 to 10 min,Brunswick & 6th,40.72601173,-74.05038893,217
+6 to 10 min,Brunswick St,40.7241765,-74.0506564,207
+6 to 10 min,Buffalo Ave & E New York Ave,40.66591,-73.92602,1
+6 to 10 min,Christ Hospital,40.73478582,-74.05044364,131
+6 to 10 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,227
+6 to 10 min,City Hall,40.7177325,-74.043845,383
+6 to 10 min,City Hall - Washington St & 1 St,40.73736,-74.03097,557
+6 to 10 min,Clinton St & 7 St,40.74542,-74.03332,316
+6 to 10 min,Clinton St & Newark St,40.73743,-74.03571,258
+6 to 10 min,Columbus Drive,40.7183552,-74.03891444,307
+6 to 10 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,464
+6 to 10 min,Communipaw & Berry Lane,40.71435837,-74.06661093,137
+6 to 10 min,Dey St,40.737711,-74.066921,30
+6 to 10 min,Dixon Mills,40.72163014,-74.04996783,154
+6 to 10 min,E 15 St & 3 Ave,40.734232,-73.986923,1
+6 to 10 min,E 26 St & 3 Ave,40.74069318,-73.98160636,1
+6 to 10 min,E 33 St & 1 Ave,40.74322681,-73.97449784,1
+6 to 10 min,Essex Light Rail,40.7127742,-74.0364857,92
+6 to 10 min,Exchange Pl,40.71636596,-74.03434396,286
+6 to 10 min,Fairmount Ave,40.72572614,-74.07195926,101
+6 to 10 min,Fulton St & Adams St,40.69241829,-73.98949474,1
+6 to 10 min,Fulton St & William St,40.70960089,-74.00655091,1
+6 to 10 min,Glenwood Ave,40.72755147,-74.07106072,57
+6 to 10 min,Grand St,40.71517768,-74.03768331,239
+6 to 10 min,Grand St & 14 St,40.75409,-74.0316,301
+6 to 10 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,11
+6 to 10 min,Grove St PATH,40.71941,-74.04309,1085
+6 to 10 min,Hamilton Park,40.72759597,-74.04424731,523
+6 to 10 min,Harborside,40.7192517,-74.034234,254
+6 to 10 min,Heights Elevator,40.74871595,-74.0404433,73
+6 to 10 min,Hilltop,40.7311689,-74.0575736,98
+6 to 10 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,700
+6 to 10 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,922
+6 to 10 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,1306
+6 to 10 min,Jackson Square,40.71113,-74.0789,36
+6 to 10 min,JC Medical Center,40.71539114,-74.04969156,154
+6 to 10 min,Jersey & 3rd,40.72333159,-74.04595256,140
+6 to 10 min,Jersey & 6th St,40.72528911,-74.04557168,118
+6 to 10 min,Journal Square,40.73367,-74.0625,205
+6 to 10 min,Lafayette Park,40.71346383,-74.06285852,342
+6 to 10 min,Leonard Gordon Park,40.74590997,-74.05727148,124
+6 to 10 min,Liberty Light Rail,40.7112423,-74.0557013,446
+6 to 10 min,Lincoln Park,40.7246051,-74.07840595,89
+6 to 10 min,Madison St & 1 St,40.73879,-74.0393,293
+6 to 10 min,Madison St & 10 St,40.74994325,-74.03586477,263
+6 to 10 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,188
+6 to 10 min,Manila & 1st,40.72165072,-74.04288411,199
+6 to 10 min,Marin Light Rail,40.71458404,-74.04281706,248
+6 to 10 min,Marshall St & 2 St,40.740802,-74.042521,337
+6 to 10 min,McGinley Square,40.72533993,-74.06762213,121
+6 to 10 min,Monmouth and 6th,40.72568548,-74.04879034,98
+6 to 10 min,Montgomery St,40.71942,-74.05099,162
+6 to 10 min,Morris Canal,40.71241882,-74.03852552,121
+6 to 10 min,Newark Ave,40.72152515,-74.04630454,336
+6 to 10 min,Newport PATH,40.7272235,-74.0337589,599
+6 to 10 min,Newport Pkwy,40.7287448,-74.0321082,423
+6 to 10 min,Oakland Ave,40.7376037,-74.0524783,150
+6 to 10 min,Paulus Hook,40.7141454,-74.0335519,93
+6 to 10 min,Perry St & Bleecker St,40.73535398,-74.00483091,1
+6 to 10 min,Pershing Field,40.74267714,-74.05178863,167
+6 to 10 min,River St & 1 St,40.73721535,-74.02886541,483
+6 to 10 min,Riverview Park,40.7443187,-74.0439909,176
+6 to 10 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,553
+6 to 10 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,271
+6 to 10 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,175
+6 to 10 min,Union St,40.7182113,-74.0836394,38
+6 to 10 min,Van Vorst Park,40.71848892,-74.04772663,184
+6 to 10 min,W 20 St & 5 Ave,40.73972989,-73.99103969,1
+6 to 10 min,W 30 St & 8 Ave,40.74965268,-73.99520785,1
+6 to 10 min,Warren St,40.7211236,-74.03805095,285
+6 to 10 min,Washington St,40.7242941,-74.0354826,282
+6 to 10 min,Willow Ave & 12 St,40.75186748,-74.03037697,334
+6 to 10 min,York St & Marin Blvd,40.716615,-74.04241204,79
+greater than 45 min,11 St & Washington St,40.74998491,-74.02715027,13
+greater than 45 min,12 St & Sinatra Dr N,40.75060414,-74.02402014,16
+greater than 45 min,14 St Ferry - 14 St & Shipyard Ln,40.75296063,-74.02435273,8
+greater than 45 min,2 St & Park Ave,40.73915273,-74.03308198,5
+greater than 45 min,4 Ave & 3 St,40.673746,-73.985649,1
+greater than 45 min,4 St & Grand St,40.74225798,-74.03511107,3
+greater than 45 min,4 St & River St,40.7408139,-74.0274062,20
+greater than 45 min,5 Corners Library,40.73496102,-74.05950308,3
+greater than 45 min,7 St & Monroe St,40.74641265,-74.03797701,2
+greater than 45 min,8 St & Washington St,40.74598388,-74.02819902,10
+greater than 45 min,9 St HBLR - Jackson St & 8 St,40.74790721,-74.03841153,4
+greater than 45 min,Adams St & 12 St,40.75188939,-74.03329163,3
+greater than 45 min,Adams St & 2 St,40.73981372,-74.03690413,6
+greater than 45 min,Amsterdam Ave & W 73 St,40.77966809,-73.98093045,1
+greater than 45 min,Astor Place,40.7192822,-74.07126188,5
+greater than 45 min,Baldwin at Montgomery,40.7236589,-74.0641943,11
+greater than 45 min,Bergen Ave,40.72210379,-74.071455,8
+greater than 45 min,Bergen Ave & Sip Ave,40.73100889,-74.064437,5
+greater than 45 min,Bergen Ave & Stegman St,40.70657545,-74.08670068,8
+greater than 45 min,Beverley Rd & Nostrand Ave,40.64507,-73.9488,1
+greater than 45 min,Bloomfield St & 15 St,40.75453,-74.02658,10
+greater than 45 min,Broadway & W 58 St,40.76695317,-73.98169333,1
+greater than 45 min,Brunswick & 6th,40.72601173,-74.05038893,5
+greater than 45 min,Brunswick St,40.7241765,-74.0506564,7
+greater than 45 min,Central Park S & 6 Ave,40.76590936,-73.97634151,1
+greater than 45 min,Church Sq Park - 5 St & Park Ave,40.74265933,-74.03223306,5
+greater than 45 min,City Hall,40.7177325,-74.043845,5
+greater than 45 min,City Hall - Washington St & 1 St,40.73736,-74.03097,8
+greater than 45 min,Clinton St & 7 St,40.74542,-74.03332,2
+greater than 45 min,Clinton St & Newark St,40.73743,-74.03571,4
+greater than 45 min,Columbus Drive,40.7183552,-74.03891444,4
+greater than 45 min,Columbus Park - Clinton St & 9 St,40.74816121,-74.032453,3
+greater than 45 min,Communipaw & Berry Lane,40.71435837,-74.06661093,1
+greater than 45 min,Dey St,40.737711,-74.066921,3
+greater than 45 min,Dixon Mills,40.72163014,-74.04996783,2
+greater than 45 min,E 13 St & Ave A,40.72966729,-73.98067966,1
+greater than 45 min,E 15 St & 3 Ave,40.734232,-73.986923,1
+greater than 45 min,E 47 St & 2 Ave,40.75323098,-73.97032517,1
+greater than 45 min,Essex Light Rail,40.7127742,-74.0364857,1
+greater than 45 min,Exchange Pl,40.71636596,-74.03434396,8
+greater than 45 min,Fairmount Ave,40.72572614,-74.07195926,2
+greater than 45 min,Glenwood Ave,40.72755147,-74.07106072,1
+greater than 45 min,Grand St,40.71517768,-74.03768331,7
+greater than 45 min,Grand St & 14 St,40.75409,-74.0316,6
+greater than 45 min,Grant Ave & MLK Dr,40.70919832,-74.08084273,6
+greater than 45 min,Grove St PATH,40.71941,-74.04309,11
+greater than 45 min,Hamilton Park,40.72759597,-74.04424731,13
+greater than 45 min,Harborside,40.7192517,-74.034234,9
+greater than 45 min,Heights Elevator,40.74871595,-74.0404433,4
+greater than 45 min,Hilltop,40.7311689,-74.0575736,3
+greater than 45 min,Hoboken Ave at Monmouth St,40.73520838,-74.04696375,3
+greater than 45 min,Hoboken Terminal - Hudson St & Hudson Pl,40.73593758,-74.03030455,6
+greater than 45 min,Hoboken Terminal - River St & Hudson Pl,40.73606766,-74.02912706,12
+greater than 45 min,Jackson Square,40.71113,-74.0789,4
+greater than 45 min,JC Medical Center,40.71539114,-74.04969156,22
+greater than 45 min,Jersey & 3rd,40.72333159,-74.04595256,7
+greater than 45 min,Jersey & 6th St,40.72528911,-74.04557168,4
+greater than 45 min,Journal Square,40.73367,-74.0625,3
+greater than 45 min,Lafayette Park,40.71346383,-74.06285852,1
+greater than 45 min,Leonard Gordon Park,40.74590997,-74.05727148,3
+greater than 45 min,Liberty Light Rail,40.7112423,-74.0557013,41
+greater than 45 min,Lincoln Park,40.7246051,-74.07840595,4
+greater than 45 min,Madison St & 1 St,40.73879,-74.0393,9
+greater than 45 min,Mama Johnson Field - 4 St & Jackson St,40.74313994,-74.04004097,2
+greater than 45 min,Manila & 1st,40.72165072,-74.04288411,2
+greater than 45 min,Marin Light Rail,40.71458404,-74.04281706,14
+greater than 45 min,Marshall St & 2 St,40.740802,-74.042521,4
+greater than 45 min,McGinley Square,40.72533993,-74.06762213,3
+greater than 45 min,Montgomery St,40.71942,-74.05099,4
+greater than 45 min,Morris Canal,40.71241882,-74.03852552,10
+greater than 45 min,Newark Ave,40.72152515,-74.04630454,8
+greater than 45 min,Newport PATH,40.7272235,-74.0337589,20
+greater than 45 min,Newport Pkwy,40.7287448,-74.0321082,21
+greater than 45 min,Oakland Ave,40.7376037,-74.0524783,2
+greater than 45 min,Paulus Hook,40.7141454,-74.0335519,12
+greater than 45 min,Pershing Field,40.74267714,-74.05178863,6
+greater than 45 min,River St & 1 St,40.73721535,-74.02886541,10
+greater than 45 min,Riverview Park,40.7443187,-74.0439909,4
+greater than 45 min,South Waterfront Walkway - Sinatra Dr & 1 St,40.73698222,-74.02778059,22
+greater than 45 min,Southwest Park - Jackson St & Observer Hwy,40.73755127,-74.04166371,1
+greater than 45 min,Stevens - River Ter & 6 St,40.74313283,-74.02698867,3
+greater than 45 min,Union St,40.7182113,-74.0836394,5
+greater than 45 min,Van Vorst Park,40.71848892,-74.04772663,12
+greater than 45 min,W 45 St & 8 Ave,40.75929124,-73.98859651,2
+greater than 45 min,W 50 St & 9 Ave,40.76360468,-73.98917958,1
+greater than 45 min,Warren St,40.7211236,-74.03805095,10
+greater than 45 min,Washington St,40.7242941,-74.0354826,14
+greater than 45 min,Willow Ave & 12 St,40.75186748,-74.03037697,2
+greater than 45 min,York St & Marin Blvd,40.716615,-74.04241204,3

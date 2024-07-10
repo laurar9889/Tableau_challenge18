@@ -1,0 +1,6 @@
+year,rideable_type,total_bikes
+2022,classic_bike,38989
+2022,docked_bike,103
+2022,electric_bike,9493
+2023,classic_bike,965026
+2023,electric_bike,34974
