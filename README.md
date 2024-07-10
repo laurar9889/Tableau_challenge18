@@ -3,6 +3,8 @@ New York Citi bike analysis
 Data taken from citi bike website. https://citibikenyc.com/system-data. 
 Most of the analysis performed with Dec 2023 dataset.
 
+tableau public link: https://public.tableau.com/app/profile/laura.roa/viz/citibike_challenge_LR/CitiBike_Story?publish=yes
+
 ## Unexpected phenomena
 1. Number of bikes in Dec 2023 versus Dec 2022. 
 -	96% increase in Dec 2023 in total classic bikes, compared to Dec 2022
